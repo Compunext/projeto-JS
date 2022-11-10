@@ -31,10 +31,6 @@ Grandes telas: acima de 1200px
         width: 60%; 
     }
 
-    div.campo > input{
-        width: 88%;
-    }
-    
 
  }
  @media screen and ( min-width: 992px) {
