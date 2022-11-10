@@ -82,7 +82,7 @@ div.campo > input {
     padding: 5px;
     border: 0px;
     border-radius: 8px;
-    width: 80%;
+    width: calc(100% - 45px);
     transform: translateY(-13px);
     
 
